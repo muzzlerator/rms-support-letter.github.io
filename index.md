@@ -246,3 +246,5 @@ Signed,
 [Sergey Shurlakov](https://github.com/shurlakov)
 
 [Maksim Polishchuk](https://github.com/MiraD1n) 
+
+[Dmitry Muzzle] (https://github.com/muzzlerator)
